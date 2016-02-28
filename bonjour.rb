@@ -1,4 +1,4 @@
 #fichier test
-puts "what's your name"
+puts "What's your name?"
 name = gets
-puts "hello #{name}!"
+puts "Hello, #{name}!"
